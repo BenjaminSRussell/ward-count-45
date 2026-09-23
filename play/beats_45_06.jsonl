@@ -125,3 +125,6 @@
 {"n":125,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Last Light. Nobody past the east roof. We hit in 2 steps. Direct on the left lane, open."}
 {"n":126,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light east roof. Matt keeps the crate for the hit. 3 steps, direct on the left lane, open."}
 {"n":127,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east roof. direct left open. 4 steps. The crate stays for the hit."}
+{"n":128,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Last Light. Nobody past the east roof. We hit in 5 steps. Direct on the left lane, open."}
+{"n":129,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light east roof. Nia keeps the crate for the hit. 6 steps, direct on the left lane, open."}
+{"n":130,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east roof. direct left open. 7 steps. The crate stays for the hit."}
