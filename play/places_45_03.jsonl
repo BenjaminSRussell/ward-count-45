@@ -628,3 +628,6 @@
 {"n":628,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west roof. direct left open. 4 steps. The plywood stays for the hit."}
 {"n":629,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the pier. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":630,"kind":"place","name":"the pier west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier west roof. Matt keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
+{"n":631,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west roof. direct left open. 7 steps. The plywood stays for the hit."}
+{"n":632,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the pier. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":633,"kind":"place","name":"the pier west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier west roof. Nia keeps the plywood for the hit. 2 steps, direct on the left lane, open."}
