@@ -30,3 +30,6 @@
 {"n":30,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north stair. direct left open. 3 steps. The drum stays for the hit."}
 {"n":31,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at the Lot. Nobody past the north stair. We hit in 4 steps. Direct on the left lane, open."}
 {"n":32,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north stair. Ivo keeps the drum for the hit. 5 steps, direct on the left lane, open."}
+{"n":33,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north stair. direct left open. 6 steps. The drum stays for the hit."}
+{"n":34,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the Lot. Nobody past the north stair. We hit in 7 steps. Direct on the left lane, open."}
+{"n":35,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north stair. Bess keeps the drum for the hit. 8 steps, direct on the left lane, open."}
