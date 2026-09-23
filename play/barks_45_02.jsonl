@@ -493,3 +493,6 @@
 {"n":493,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south stair. Nia keeps the rebar for the hit. 3 steps, direct on the left lane, open."}
 {"n":494,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south stair. direct left open. 4 steps. The rebar stays for the hit."}
 {"n":495,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Drydock. Nobody past the south stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":496,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the rebar for the hit. 6 steps, direct on the left lane, open."}
+{"n":497,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. direct left open. 7 steps. The rebar stays for the hit."}
+{"n":498,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Drydock. Nobody past the south stair. We hit in 8 steps. Direct on the left lane, open."}
