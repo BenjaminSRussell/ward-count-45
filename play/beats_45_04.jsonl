@@ -331,3 +331,6 @@
 {"n":331,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Switchyard. Nobody past the west roof. We hit in 7 steps. Direct on the left lane, open."}
 {"n":332,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
 {"n":333,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":334,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Switchyard. Nobody past the west roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":335,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard west roof. Bess keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
+{"n":336,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west roof. direct left open. 5 steps. The lamp stays for the hit."}
