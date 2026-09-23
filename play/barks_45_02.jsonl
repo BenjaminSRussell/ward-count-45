@@ -868,3 +868,6 @@
 {"n":868,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south stair. Ivo keeps the awning for the hit. 7 steps, direct on the left lane, open."}
 {"n":869,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south stair. direct left open. 8 steps. The awning stays for the hit."}
 {"n":870,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Kessler alley. Nobody past the south stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":871,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south stair. Bess keeps the awning for the hit. 3 steps, direct on the left lane, open."}
+{"n":872,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south stair. direct left open. 4 steps. The awning stays for the hit."}
+{"n":873,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Lot. Nobody past the south stair. We hit in 5 steps. Direct on the left lane, open."}
