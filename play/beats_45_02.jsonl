@@ -837,3 +837,6 @@
 {"n":837,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at High line. Nobody past the south stair. We hit in 4 steps. Direct on the left lane, open."}
 {"n":838,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line south stair. Matt keeps the shutter for the hit. 5 steps, direct on the left lane, open."}
 {"n":839,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south stair. direct left open. 6 steps. The shutter stays for the hit."}
+{"n":840,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at High line. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
+{"n":841,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line south stair. Nia keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
+{"n":842,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south stair. direct left open. 2 steps. The shutter stays for the hit."}
