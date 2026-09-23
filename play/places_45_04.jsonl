@@ -426,3 +426,6 @@
 {"n":426,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. direct left open. 4 steps. The rebar stays for the hit."}
 {"n":427,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Underpass. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":428,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the rebar for the hit. 6 steps, direct on the left lane, open."}
+{"n":429,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. direct left open. 7 steps. The rebar stays for the hit."}
+{"n":430,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Underpass. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":431,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass west roof. Bess keeps the rebar for the hit. 2 steps, direct on the left lane, open."}
