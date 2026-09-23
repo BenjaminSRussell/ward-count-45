@@ -907,3 +907,6 @@
 {"n":907,"kind":"place","name":"Ward gate north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north roof. Bess keeps the awning for the hit. 5 steps, direct on the left lane, open."}
 {"n":908,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north roof. direct left open. 6 steps. The awning stays for the hit."}
 {"n":909,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Kessler alley. Nobody past the north roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":910,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley north roof. Matt keeps the awning for the hit. 8 steps, direct on the left lane, open."}
+{"n":911,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north roof. direct left open. 2 steps. The awning stays for the hit."}
+{"n":912,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Kessler alley. Nobody past the north roof. We hit in 3 steps. Direct on the left lane, open."}
