@@ -174,3 +174,6 @@
 {"n":174,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the south stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":175,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south stair. Bess keeps the crate for the hit. 7 steps, direct on the left lane, open."}
 {"n":176,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. direct left open. 8 steps. The crate stays for the hit."}
+{"n":177,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the south stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":178,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south stair. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":179,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south stair. direct left open. 4 steps. The lamp stays for the hit."}
