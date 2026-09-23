@@ -231,3 +231,6 @@
 {"n":231,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north roof. Bess keeps the drum for the hit. 7 steps, direct on the left lane, open."}
 {"n":232,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north roof. direct left open. 8 steps. The drum stays for the hit."}
 {"n":233,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Ward gate. Nobody past the north roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":234,"kind":"place","name":"Ward gate north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north roof. Matt keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
+{"n":235,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north roof. direct left open. 4 steps. The badge door stays for the hit."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Ward gate. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
