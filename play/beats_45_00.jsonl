@@ -116,3 +116,6 @@
 {"n":116,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Clinic roof. Nobody past the north stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":117,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north stair. Nia keeps the crate for the hit. 7 steps, direct on the left lane, open."}
 {"n":118,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north stair. direct left open. 8 steps. The crate stays for the hit."}
+{"n":119,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Clinic roof. Nobody past the north stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":120,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof north stair. Ivo keeps the crate for the hit. 3 steps, direct on the left lane, open."}
+{"n":121,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north stair. direct left open. 4 steps. The crate stays for the hit."}
