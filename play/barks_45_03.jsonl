@@ -510,3 +510,6 @@
 {"n":510,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line south stair. Matt keeps the radio coil for the hit. 5 steps, direct on the left lane, open."}
 {"n":511,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south stair. direct left open. 6 steps. The radio coil stays for the hit."}
 {"n":512,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at High line. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
+{"n":513,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line south stair. Nia keeps the radio coil for the hit. 8 steps, direct on the left lane, open."}
+{"n":514,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south stair. direct left open. 2 steps. The radio coil stays for the hit."}
+{"n":515,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at High line. Nobody past the south stair. We hit in 3 steps. Direct on the left lane, open."}
