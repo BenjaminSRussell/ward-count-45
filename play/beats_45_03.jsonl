@@ -65,3 +65,6 @@
 {"n":65,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mall court. Nobody past the south stair. We hit in 8 steps. Direct on the left lane, open."}
 {"n":66,"kind":"place","name":"Mall court south stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court south stair. Matt keeps the drum for the hit. 2 steps, direct on the left lane, open."}
 {"n":67,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south stair. direct left open. 3 steps. The drum stays for the hit."}
+{"n":68,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mall court. Nobody past the south stair. We hit in 4 steps. Direct on the left lane, open."}
+{"n":69,"kind":"place","name":"Mall court south stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south stair. Nia keeps the drum for the hit. 5 steps, direct on the left lane, open."}
+{"n":70,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south stair. direct left open. 6 steps. The drum stays for the hit."}
