@@ -172,3 +172,6 @@
 {"n":172,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south stair. direct left open. 3 steps. The drum stays for the hit."}
 {"n":173,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at High line. Nobody past the south stair. We hit in 4 steps. Direct on the left lane, open."}
 {"n":174,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line south stair. Matt keeps the drum for the hit. 5 steps, direct on the left lane, open."}
+{"n":175,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south stair. direct left open. 6 steps. The drum stays for the hit."}
+{"n":176,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at High line. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
+{"n":177,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south stair. Nia keeps the drum for the hit. 8 steps, direct on the left lane, open."}
