@@ -995,3 +995,6 @@
 {"n":995,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Switchyard. Nobody past the west roof. We hit in 7 steps. Direct on the left lane, open."}
 {"n":996,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
 {"n":997,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. direct left open. 2 steps. The barrel stays for the hit."}
+{"n":998,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Switchyard. Nobody past the west roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":999,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west roof. Bess keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
+{"n":1000,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west roof. direct left open. 5 steps. The barrel stays for the hit."}
