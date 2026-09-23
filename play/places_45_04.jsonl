@@ -702,3 +702,6 @@
 {"n":702,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west roof. direct left open. 7 steps. The shutter stays for the hit."}
 {"n":703,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Ward gate. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
 {"n":704,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate west roof. Ivo keeps the shutter for the hit. 2 steps, direct on the left lane, open."}
+{"n":705,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west roof. direct left open. 3 steps. The shutter stays for the hit."}
+{"n":706,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Ward gate. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":707,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west roof. Bess keeps the shutter for the hit. 5 steps, direct on the left lane, open."}
