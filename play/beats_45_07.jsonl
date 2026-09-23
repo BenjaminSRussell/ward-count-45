@@ -466,3 +466,6 @@
 {"n":466,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Mast yard. Nobody past the east roof. We hit in 6 steps. Direct on the left lane, open."}
 {"n":467,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east roof. Bess keeps the radio coil for the hit. 7 steps, direct on the left lane, open."}
 {"n":468,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east roof. direct left open. 8 steps. The radio coil stays for the hit."}
+{"n":469,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Last Light. Nobody past the east roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":470,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light east roof. Matt keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
+{"n":471,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east roof. direct left open. 4 steps. The radio coil stays for the hit."}
