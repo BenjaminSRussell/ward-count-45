@@ -352,3 +352,6 @@
 {"n":352,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. direct left open. 8 steps. The badge door stays for the hit."}
 {"n":353,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Ward gate. Nobody past the south stair. We hit in 2 steps. Direct on the left lane, open."}
 {"n":354,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south stair. Matt keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
+{"n":355,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south stair. direct left open. 4 steps. The radio coil stays for the hit."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Ward gate. Nobody past the south stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":357,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate south stair. Nia keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
