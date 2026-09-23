@@ -765,3 +765,6 @@
 {"n":765,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot south roof. Nia keeps the hydrant for the hit. 2 steps, direct on the left lane, open."}
 {"n":766,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south roof. direct left open. 3 steps. The hydrant stays for the hit."}
 {"n":767,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at the Lot. Nobody past the south roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":768,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south roof. Ivo keeps the hydrant for the hit. 5 steps, direct on the left lane, open."}
+{"n":769,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south roof. direct left open. 6 steps. The hydrant stays for the hit."}
+{"n":770,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at the Lot. Nobody past the south roof. We hit in 7 steps. Direct on the left lane, open."}
