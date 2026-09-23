@@ -780,3 +780,6 @@
 {"n":780,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Mast yard. Nobody past the east roof. We hit in 7 steps. Direct on the left lane, open."}
 {"n":781,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard east roof. Nia keeps the hydrant for the hit. 8 steps, direct on the left lane, open."}
 {"n":782,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east roof. direct left open. 2 steps. The hydrant stays for the hit."}
+{"n":783,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Mast yard. Nobody past the east roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":784,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard east roof. Ivo keeps the hydrant for the hit. 4 steps, direct on the left lane, open."}
+{"n":785,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east roof. direct left open. 5 steps. The hydrant stays for the hit."}
