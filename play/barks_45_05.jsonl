@@ -187,3 +187,6 @@
 {"n":187,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock west roof. Bess keeps the drum for the hit. 2 steps, direct on the left lane, open."}
 {"n":188,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. direct left open. 3 steps. The drum stays for the hit."}
 {"n":189,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at High line. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":190,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line west roof. Matt keeps the drum for the hit. 5 steps, direct on the left lane, open."}
+{"n":191,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. direct left open. 6 steps. The drum stays for the hit."}
+{"n":192,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at High line. Nobody past the west roof. We hit in 7 steps. Direct on the left lane, open."}
