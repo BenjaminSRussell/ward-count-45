@@ -863,3 +863,6 @@
 {"n":863,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the Lot. Nobody past the north stair. We hit in 4 steps. Direct on the left lane, open."}
 {"n":864,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north stair. Ivo keeps the awning for the hit. 5 steps, direct on the left lane, open."}
 {"n":865,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north stair. direct left open. 6 steps. The awning stays for the hit."}
+{"n":866,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the Lot. Nobody past the north stair. We hit in 7 steps. Direct on the left lane, open."}
+{"n":867,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north stair. Bess keeps the awning for the hit. 8 steps, direct on the left lane, open."}
+{"n":868,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north stair. direct left open. 2 steps. The awning stays for the hit."}
