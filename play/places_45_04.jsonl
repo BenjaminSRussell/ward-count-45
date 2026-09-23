@@ -753,3 +753,6 @@
 {"n":753,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west roof. direct left open. 2 steps. The shutter stays for the hit."}
 {"n":754,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Mall court. Nobody past the west roof. We hit in 3 steps. Direct on the left lane, open."}
 {"n":755,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court west roof. Bess keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
+{"n":756,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west roof. direct left open. 5 steps. The shutter stays for the hit."}
+{"n":757,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Underpass. Nobody past the west roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":758,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass west roof. Matt keeps the shutter for the hit. 7 steps, direct on the left lane, open."}
