@@ -530,3 +530,6 @@
 {"n":530,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west roof. Matt keeps the rope for the hit. 3 steps, direct on the left lane, open."}
 {"n":531,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west roof. direct left open. 4 steps. The rope stays for the hit."}
 {"n":532,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Ward gate. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
+{"n":533,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate west roof. Nia keeps the rope for the hit. 6 steps, direct on the left lane, open."}
+{"n":534,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west roof. direct left open. 7 steps. The rope stays for the hit."}
+{"n":535,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Ward gate. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
