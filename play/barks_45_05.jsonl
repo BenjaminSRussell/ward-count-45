@@ -82,3 +82,6 @@
 {"n":82,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court west roof. Matt keeps the drum for the hit. 2 steps, direct on the left lane, open."}
 {"n":83,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west roof. direct left open. 3 steps. The drum stays for the hit."}
 {"n":84,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mall court. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":85,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court west roof. Nia keeps the drum for the hit. 5 steps, direct on the left lane, open."}
+{"n":86,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west roof. direct left open. 6 steps. The drum stays for the hit."}
+{"n":87,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mall court. Nobody past the west roof. We hit in 7 steps. Direct on the left lane, open."}
