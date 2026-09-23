@@ -512,3 +512,6 @@
 {"n":512,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north roof. direct left open. 2 steps. The rebar stays for the hit."}
 {"n":513,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Clinic roof. Nobody past the north roof. We hit in 3 steps. Direct on the left lane, open."}
 {"n":514,"kind":"place","name":"Clinic roof north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north roof. Matt keeps the rebar for the hit. 4 steps, direct on the left lane, open."}
+{"n":515,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north roof. direct left open. 5 steps. The rebar stays for the hit."}
+{"n":516,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Clinic roof. Nobody past the north roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":517,"kind":"place","name":"Clinic roof north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north roof. Nia keeps the rebar for the hit. 7 steps, direct on the left lane, open."}
