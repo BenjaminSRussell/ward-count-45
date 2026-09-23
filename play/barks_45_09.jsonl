@@ -63,3 +63,6 @@
 {"n":63,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north roof. Bess keeps the awning for the hit. 7 steps, direct on the left lane, open."}
 {"n":64,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north roof. direct left open. 8 steps. The awning stays for the hit."}
 {"n":65,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Ward gate. Nobody past the north roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":66,"kind":"place","name":"Ward gate north roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north roof. Matt keeps the drum for the hit. 3 steps, direct on the left lane, open."}
+{"n":67,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north roof. direct left open. 4 steps. The drum stays for the hit."}
+{"n":68,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Ward gate. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
