@@ -518,3 +518,6 @@
 {"n":518,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at High line. Nobody past the south stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":519,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south stair. Bess keeps the radio coil for the hit. 7 steps, direct on the left lane, open."}
 {"n":520,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. direct left open. 8 steps. The radio coil stays for the hit."}
+{"n":521,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Ward gate. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":522,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west roof. Matt keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
+{"n":523,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west roof. direct left open. 4 steps. The plywood stays for the hit."}
