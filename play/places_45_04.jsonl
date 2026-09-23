@@ -240,3 +240,6 @@
 {"n":240,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west roof. direct left open. 7 steps. The lamp stays for the hit."}
 {"n":241,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Mall court. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
 {"n":242,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court west roof. Matt keeps the lamp for the hit. 2 steps, direct on the left lane, open."}
+{"n":243,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west roof. direct left open. 3 steps. The lamp stays for the hit."}
+{"n":244,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Mall court. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":245,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court west roof. Nia keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
