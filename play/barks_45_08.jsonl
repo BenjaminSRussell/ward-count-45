@@ -454,3 +454,6 @@
 {"n":454,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north roof. Matt keeps the rebar for the hit. 7 steps, direct on the left lane, open."}
 {"n":455,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north roof. direct left open. 8 steps. The rebar stays for the hit."}
 {"n":456,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at the Underpass. Nobody past the north roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":457,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north roof. Nia keeps the rebar for the hit. 3 steps, direct on the left lane, open."}
+{"n":458,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north roof. direct left open. 4 steps. The rebar stays for the hit."}
+{"n":459,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Underpass. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
