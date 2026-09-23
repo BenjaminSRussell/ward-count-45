@@ -101,3 +101,6 @@
 {"n":101,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north roof. direct left open. 4 steps. The crate stays for the hit."}
 {"n":102,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Stockyard fence. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":103,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence north roof. Bess keeps the crate for the hit. 6 steps, direct on the left lane, open."}
+{"n":104,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north roof. direct left open. 7 steps. The crate stays for the hit."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Mall court. Nobody past the north roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":106,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court north roof. Matt keeps the crate for the hit. 2 steps, direct on the left lane, open."}
