@@ -445,3 +445,6 @@
 {"n":445,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north roof. direct left open. 4 steps. The radio coil stays for the hit."}
 {"n":446,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":447,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence north roof. Bess keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
+{"n":448,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north roof. direct left open. 7 steps. The radio coil stays for the hit."}
+{"n":449,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Mall court. Nobody past the north roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":450,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court north roof. Matt keeps the radio coil for the hit. 2 steps, direct on the left lane, open."}
