@@ -678,3 +678,6 @@
 {"n":678,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at High line. Nobody past the south stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":679,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south stair. Bess keeps the rope for the hit. 7 steps, direct on the left lane, open."}
 {"n":680,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. direct left open. 8 steps. The rope stays for the hit."}
+{"n":681,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Ward gate. Nobody past the south stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":682,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south stair. Matt keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
+{"n":683,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south stair. direct left open. 4 steps. The shutter stays for the hit."}
