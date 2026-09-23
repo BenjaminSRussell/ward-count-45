@@ -15,3 +15,6 @@
 {"n":15,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Drydock. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":16,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west roof. Ivo keeps the awning for the hit. 6 steps, direct on the left lane, open."}
 {"n":17,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west roof. direct left open. 7 steps. The awning stays for the hit."}
+{"n":18,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Drydock. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":19,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west roof. Bess keeps the awning for the hit. 2 steps, direct on the left lane, open."}
+{"n":20,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. direct left open. 3 steps. The awning stays for the hit."}
