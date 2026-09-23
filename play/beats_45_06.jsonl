@@ -314,3 +314,6 @@
 {"n":314,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at South stair. Nobody past the east roof. We hit in 2 steps. Direct on the left lane, open."}
 {"n":315,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east roof. Bess keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
 {"n":316,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. direct left open. 4 steps. The lamp stays for the hit."}
+{"n":317,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at the pier. Nobody past the east roof. We hit in 5 steps. Direct on the left lane, open."}
+{"n":318,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier east roof. Matt keeps the lamp for the hit. 6 steps, direct on the left lane, open."}
+{"n":319,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east roof. direct left open. 7 steps. The lamp stays for the hit."}
