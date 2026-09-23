@@ -611,3 +611,6 @@
 {"n":611,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court north roof. Bess keeps the plywood for the hit. 4 steps, direct on the left lane, open."}
 {"n":612,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. direct left open. 5 steps. The plywood stays for the hit."}
 {"n":613,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Underpass. Nobody past the north roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":614,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north roof. Matt keeps the plywood for the hit. 7 steps, direct on the left lane, open."}
+{"n":615,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north roof. direct left open. 8 steps. The plywood stays for the hit."}
+{"n":616,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the Underpass. Nobody past the north roof. We hit in 2 steps. Direct on the left lane, open."}
