@@ -520,3 +520,6 @@
 {"n":520,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. direct left open. 8 steps. The radio coil stays for the hit."}
 {"n":521,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Ward gate. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
 {"n":522,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west roof. Matt keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
+{"n":523,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west roof. direct left open. 4 steps. The plywood stays for the hit."}
+{"n":524,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Ward gate. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
+{"n":525,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate west roof. Nia keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
