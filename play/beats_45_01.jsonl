@@ -244,3 +244,6 @@
 {"n":244,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Mast yard. Nobody past the north stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":245,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard north stair. Nia keeps the badge door for the hit. 8 steps, direct on the left lane, open."}
 {"n":246,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north stair. direct left open. 2 steps. The badge door stays for the hit."}
+{"n":247,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Mast yard. Nobody past the north stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":248,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north stair. Ivo keeps the badge door for the hit. 4 steps, direct on the left lane, open."}
+{"n":249,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north stair. direct left open. 5 steps. The badge door stays for the hit."}
