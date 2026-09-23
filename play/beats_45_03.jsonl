@@ -581,3 +581,6 @@
 {"n":581,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Underpass. Nobody past the west roof. We hit in 6 steps. Direct on the left lane, open."}
 {"n":582,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west roof. Matt keeps the plywood for the hit. 7 steps, direct on the left lane, open."}
 {"n":583,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west roof. direct left open. 8 steps. The plywood stays for the hit."}
+{"n":584,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the Underpass. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":585,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass west roof. Nia keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
+{"n":586,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. direct left open. 4 steps. The plywood stays for the hit."}
