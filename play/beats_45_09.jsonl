@@ -488,3 +488,6 @@
 {"n":488,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Last Light. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":489,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light north roof. Nia keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
 {"n":490,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north roof. direct left open. 7 steps. The radio coil stays for the hit."}
+{"n":491,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Last Light. Nobody past the north roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":492,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the radio coil for the hit. 2 steps, direct on the left lane, open."}
+{"n":493,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. direct left open. 3 steps. The radio coil stays for the hit."}
