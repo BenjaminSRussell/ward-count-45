@@ -930,3 +930,6 @@
 {"n":930,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard west roof. Matt keeps the barrel for the hit. 5 steps, direct on the left lane, open."}
 {"n":931,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west roof. direct left open. 6 steps. The barrel stays for the hit."}
 {"n":932,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Mast yard. Nobody past the west roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":933,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard west roof. Nia keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
+{"n":934,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west roof. direct left open. 2 steps. The barrel stays for the hit."}
+{"n":935,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Mast yard. Nobody past the west roof. We hit in 3 steps. Direct on the left lane, open."}
