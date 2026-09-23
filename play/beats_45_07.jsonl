@@ -643,3 +643,6 @@
 {"n":643,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Last Light. Nobody past the north roof. We hit in 8 steps. Direct on the left lane, open."}
 {"n":644,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the plywood for the hit. 2 steps, direct on the left lane, open."}
 {"n":645,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. direct left open. 3 steps. The plywood stays for the hit."}
+{"n":646,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Last Light. Nobody past the north roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":647,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light north roof. Bess keeps the plywood for the hit. 5 steps, direct on the left lane, open."}
+{"n":648,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north roof. direct left open. 6 steps. The plywood stays for the hit."}
