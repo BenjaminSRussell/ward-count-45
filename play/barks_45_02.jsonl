@@ -850,3 +850,6 @@
 {"n":850,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south stair. Matt keeps the awning for the hit. 3 steps, direct on the left lane, open."}
 {"n":851,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south stair. direct left open. 4 steps. The awning stays for the hit."}
 {"n":852,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Ward gate. Nobody past the south stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":853,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate south stair. Nia keeps the awning for the hit. 6 steps, direct on the left lane, open."}
+{"n":854,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south stair. direct left open. 7 steps. The awning stays for the hit."}
+{"n":855,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Ward gate. Nobody past the south stair. We hit in 8 steps. Direct on the left lane, open."}
