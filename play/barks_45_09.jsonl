@@ -795,3 +795,6 @@
 {"n":795,"kind":"place","name":"Mall court south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court south roof. Bess keeps the hydrant for the hit. 4 steps, direct on the left lane, open."}
 {"n":796,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south roof. direct left open. 5 steps. The hydrant stays for the hit."}
 {"n":797,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at the Underpass. Nobody past the south roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":798,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass south roof. Matt keeps the hydrant for the hit. 7 steps, direct on the left lane, open."}
+{"n":799,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south roof. direct left open. 8 steps. The hydrant stays for the hit."}
+{"n":800,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at the Underpass. Nobody past the south roof. We hit in 2 steps. Direct on the left lane, open."}
