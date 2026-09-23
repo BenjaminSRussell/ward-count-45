@@ -451,3 +451,6 @@
 {"n":451,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east roof. direct left open. 6 steps. The rebar stays for the hit."}
 {"n":452,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Mast yard. Nobody past the east roof. We hit in 7 steps. Direct on the left lane, open."}
 {"n":453,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard east roof. Nia keeps the rebar for the hit. 8 steps, direct on the left lane, open."}
+{"n":454,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east roof. direct left open. 2 steps. The rebar stays for the hit."}
+{"n":455,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Mast yard. Nobody past the east roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":456,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east roof. Ivo keeps the rebar for the hit. 4 steps, direct on the left lane, open."}
