@@ -704,3 +704,6 @@
 {"n":704,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south stair. direct left open. 4 steps. The shutter stays for the hit."}
 {"n":705,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Lot. Nobody past the south stair. We hit in 5 steps. Direct on the left lane, open."}
 {"n":706,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot south stair. Matt keeps the shutter for the hit. 6 steps, direct on the left lane, open."}
+{"n":707,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south stair. direct left open. 7 steps. The shutter stays for the hit."}
+{"n":708,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Lot. Nobody past the south stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":709,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south stair. Nia keeps the shutter for the hit. 2 steps, direct on the left lane, open."}
