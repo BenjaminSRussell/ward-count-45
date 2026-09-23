@@ -688,3 +688,6 @@
 {"n":688,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Switchyard. Nobody past the north roof. We hit in 4 steps. Direct on the left lane, open."}
 {"n":689,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard north roof. Nia keeps the plywood for the hit. 5 steps, direct on the left lane, open."}
 {"n":690,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north roof. direct left open. 6 steps. The plywood stays for the hit."}
+{"n":691,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Switchyard. Nobody past the north roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":692,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the plywood for the hit. 8 steps, direct on the left lane, open."}
+{"n":693,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. direct left open. 2 steps. The plywood stays for the hit."}
