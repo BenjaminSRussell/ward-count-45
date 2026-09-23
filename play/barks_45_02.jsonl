@@ -808,3 +808,6 @@
 {"n":808,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south stair. Ivo keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
 {"n":809,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south stair. direct left open. 4 steps. The shutter stays for the hit."}
 {"n":810,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Clinic roof. Nobody past the south stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":811,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south stair. Bess keeps the shutter for the hit. 6 steps, direct on the left lane, open."}
+{"n":812,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south stair. direct left open. 7 steps. The shutter stays for the hit."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Switchyard. Nobody past the south stair. We hit in 8 steps. Direct on the left lane, open."}
