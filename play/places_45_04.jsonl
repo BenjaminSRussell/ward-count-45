@@ -183,3 +183,6 @@
 {"n":183,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. direct left open. 6 steps. The crate stays for the hit."}
 {"n":184,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at High line. Nobody past the west roof. We hit in 7 steps. Direct on the left lane, open."}
 {"n":185,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line west roof. Nia keeps the crate for the hit. 8 steps, direct on the left lane, open."}
+{"n":186,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west roof. direct left open. 2 steps. The crate stays for the hit."}
+{"n":187,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at High line. Nobody past the west roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":188,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line west roof. Ivo keeps the crate for the hit. 4 steps, direct on the left lane, open."}
