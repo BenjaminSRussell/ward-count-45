@@ -297,3 +297,6 @@
 {"n":297,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north roof. Nia keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
 {"n":298,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north roof. direct left open. 4 steps. The badge door stays for the hit."}
 {"n":299,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at the Underpass. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
+{"n":300,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass north roof. Ivo keeps the badge door for the hit. 6 steps, direct on the left lane, open."}
+{"n":301,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north roof. direct left open. 7 steps. The badge door stays for the hit."}
+{"n":302,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at the Underpass. Nobody past the north roof. We hit in 8 steps. Direct on the left lane, open."}
