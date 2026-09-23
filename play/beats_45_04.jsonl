@@ -847,3 +847,6 @@
 {"n":847,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Drydock. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":848,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock west roof. Ivo keeps the shutter for the hit. 6 steps, direct on the left lane, open."}
 {"n":849,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west roof. direct left open. 7 steps. The shutter stays for the hit."}
+{"n":850,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Drydock. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":851,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west roof. Bess keeps the shutter for the hit. 2 steps, direct on the left lane, open."}
+{"n":852,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. direct left open. 3 steps. The shutter stays for the hit."}
