@@ -703,3 +703,6 @@
 {"n":703,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east roof. Bess keeps the plywood for the hit. 7 steps, direct on the left lane, open."}
 {"n":704,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east roof. direct left open. 8 steps. The plywood stays for the hit."}
 {"n":705,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Ward gate. Nobody past the east roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":706,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east roof. Matt keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
+{"n":707,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east roof. direct left open. 4 steps. The hydrant stays for the hit."}
+{"n":708,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Ward gate. Nobody past the east roof. We hit in 5 steps. Direct on the left lane, open."}
