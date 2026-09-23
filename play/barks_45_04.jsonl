@@ -191,3 +191,6 @@
 {"n":191,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west roof. Bess keeps the crate for the hit. 7 steps, direct on the left lane, open."}
 {"n":192,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west roof. direct left open. 8 steps. The crate stays for the hit."}
 {"n":193,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":194,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west roof. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":195,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west roof. direct left open. 4 steps. The lamp stays for the hit."}
+{"n":196,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Ward gate. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
