@@ -256,3 +256,6 @@
 {"n":256,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Stockyard fence. Nobody past the east roof. We hit in 6 steps. Direct on the left lane, open."}
 {"n":257,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east roof. Nia keeps the badge door for the hit. 7 steps, direct on the left lane, open."}
 {"n":258,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east roof. direct left open. 8 steps. The badge door stays for the hit."}
+{"n":259,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Stockyard fence. Nobody past the east roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":260,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence east roof. Ivo keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
+{"n":261,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east roof. direct left open. 4 steps. The badge door stays for the hit."}
