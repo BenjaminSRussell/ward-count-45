@@ -698,3 +698,6 @@
 {"n":698,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east roof. direct left open. 2 steps. The plywood stays for the hit."}
 {"n":699,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at High line. Nobody past the east roof. We hit in 3 steps. Direct on the left lane, open."}
 {"n":700,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east roof. Ivo keeps the plywood for the hit. 4 steps, direct on the left lane, open."}
+{"n":701,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. direct left open. 5 steps. The plywood stays for the hit."}
+{"n":702,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at High line. Nobody past the east roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":703,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east roof. Bess keeps the plywood for the hit. 7 steps, direct on the left lane, open."}
