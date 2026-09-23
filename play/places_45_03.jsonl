@@ -670,3 +670,6 @@
 {"n":670,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west roof. direct left open. 4 steps. The plywood stays for the hit."}
 {"n":671,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Drydock. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":672,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock west roof. Ivo keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
+{"n":673,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west roof. direct left open. 7 steps. The plywood stays for the hit."}
+{"n":674,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Drydock. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":675,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock west roof. Bess keeps the plywood for the hit. 2 steps, direct on the left lane, open."}
