@@ -174,3 +174,6 @@
 {"n":174,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north stair. direct left open. 7 steps. The badge door stays for the hit."}
 {"n":175,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Ward gate. Nobody past the north stair. We hit in 8 steps. Direct on the left lane, open."}
 {"n":176,"kind":"place","name":"Ward gate north stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate north stair. Ivo keeps the badge door for the hit. 2 steps, direct on the left lane, open."}
+{"n":177,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north stair. direct left open. 3 steps. The badge door stays for the hit."}
+{"n":178,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Ward gate. Nobody past the north stair. We hit in 4 steps. Direct on the left lane, open."}
+{"n":179,"kind":"place","name":"Ward gate north stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north stair. Bess keeps the badge door for the hit. 5 steps, direct on the left lane, open."}
