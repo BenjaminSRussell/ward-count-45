@@ -947,3 +947,6 @@
 {"n":947,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west roof. Bess keeps the awning for the hit. 7 steps, direct on the left lane, open."}
 {"n":948,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west roof. direct left open. 8 steps. The awning stays for the hit."}
 {"n":949,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Last Light. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":950,"kind":"place","name":"Last Light west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west roof. Matt keeps the awning for the hit. 3 steps, direct on the left lane, open."}
+{"n":951,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west roof. direct left open. 4 steps. The awning stays for the hit."}
+{"n":952,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Last Light. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
