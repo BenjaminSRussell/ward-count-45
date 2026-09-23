@@ -902,3 +902,6 @@
 {"n":902,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at High line. Nobody past the south roof. We hit in 6 steps. Direct on the left lane, open."}
 {"n":903,"kind":"place","name":"High line south roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south roof. Bess keeps the hydrant for the hit. 7 steps, direct on the left lane, open."}
 {"n":904,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south roof. direct left open. 8 steps. The hydrant stays for the hit."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Ward gate. Nobody past the south roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":906,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south roof. Matt keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":907,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south roof. direct left open. 4 steps. The barrel stays for the hit."}
