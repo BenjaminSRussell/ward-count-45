@@ -49,3 +49,6 @@
 {"n":49,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line north roof. Nia keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
 {"n":50,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north roof. direct left open. 2 steps. The barrel stays for the hit."}
 {"n":51,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at High line. Nobody past the north roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":52,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north roof. Ivo keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
+{"n":53,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north roof. direct left open. 5 steps. The barrel stays for the hit."}
+{"n":54,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at High line. Nobody past the north roof. We hit in 6 steps. Direct on the left lane, open."}
