@@ -808,3 +808,6 @@
 {"n":808,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east roof. direct left open. 6 steps. The shutter stays for the hit."}
 {"n":809,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at South stair. Nobody past the east roof. We hit in 7 steps. Direct on the left lane, open."}
 {"n":810,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair east roof. Matt keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
+{"n":811,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east roof. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":812,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at South stair. Nobody past the east roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":813,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair east roof. Nia keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
