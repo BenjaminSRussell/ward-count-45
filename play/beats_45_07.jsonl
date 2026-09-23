@@ -865,3 +865,6 @@
 {"n":865,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Drydock. Nobody past the north roof. We hit in 6 steps. Direct on the left lane, open."}
 {"n":866,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north roof. Matt keeps the hydrant for the hit. 7 steps, direct on the left lane, open."}
 {"n":867,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north roof. direct left open. 8 steps. The hydrant stays for the hit."}
+{"n":868,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Drydock. Nobody past the north roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":869,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north roof. Nia keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
+{"n":870,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north roof. direct left open. 4 steps. The hydrant stays for the hit."}
