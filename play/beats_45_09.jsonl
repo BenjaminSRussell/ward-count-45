@@ -32,3 +32,6 @@
 {"n":32,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Switchyard. Nobody past the north roof. We hit in 4 steps. Direct on the left lane, open."}
 {"n":33,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard north roof. Nia keeps the awning for the hit. 5 steps, direct on the left lane, open."}
 {"n":34,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north roof. direct left open. 6 steps. The awning stays for the hit."}
+{"n":35,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Switchyard. Nobody past the north roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":36,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the awning for the hit. 8 steps, direct on the left lane, open."}
+{"n":37,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. direct left open. 2 steps. The awning stays for the hit."}
