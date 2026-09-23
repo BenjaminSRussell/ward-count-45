@@ -108,3 +108,6 @@
 {"n":108,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Mall court. Nobody past the north roof. We hit in 4 steps. Direct on the left lane, open."}
 {"n":109,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court north roof. Nia keeps the crate for the hit. 5 steps, direct on the left lane, open."}
 {"n":110,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north roof. direct left open. 6 steps. The crate stays for the hit."}
+{"n":111,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Mall court. Nobody past the north roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":112,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court north roof. Ivo keeps the crate for the hit. 8 steps, direct on the left lane, open."}
+{"n":113,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. direct left open. 2 steps. The crate stays for the hit."}
