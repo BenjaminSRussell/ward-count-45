@@ -910,3 +910,6 @@
 {"n":910,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east roof. direct left open. 3 steps. The awning stays for the hit."}
 {"n":911,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the Lot. Nobody past the east roof. We hit in 4 steps. Direct on the left lane, open."}
 {"n":912,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot east roof. Ivo keeps the awning for the hit. 5 steps, direct on the left lane, open."}
+{"n":913,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. direct left open. 6 steps. The awning stays for the hit."}
+{"n":914,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the Lot. Nobody past the east roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":915,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot east roof. Bess keeps the awning for the hit. 8 steps, direct on the left lane, open."}
