@@ -23,3 +23,6 @@
 {"n":23,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Ward gate. Nobody past the south stair. We hit in 8 steps. Direct on the left lane, open."}
 {"n":24,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south stair. Ivo keeps the drum for the hit. 2 steps, direct on the left lane, open."}
 {"n":25,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south stair. direct left open. 3 steps. The drum stays for the hit."}
+{"n":26,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Ward gate. Nobody past the south stair. We hit in 4 steps. Direct on the left lane, open."}
+{"n":27,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south stair. Bess keeps the drum for the hit. 5 steps, direct on the left lane, open."}
+{"n":28,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south stair. direct left open. 6 steps. The drum stays for the hit."}
