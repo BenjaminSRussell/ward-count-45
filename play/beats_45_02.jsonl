@@ -207,3 +207,6 @@
 {"n":207,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the Lot. Nobody past the south stair. We hit in 4 steps. Direct on the left lane, open."}
 {"n":208,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south stair. Ivo keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
 {"n":209,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south stair. direct left open. 6 steps. The lamp stays for the hit."}
+{"n":210,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Lot. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
+{"n":211,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south stair. Bess keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
+{"n":212,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south stair. direct left open. 2 steps. The lamp stays for the hit."}
