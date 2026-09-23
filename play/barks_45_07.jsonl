@@ -992,3 +992,6 @@
 {"n":992,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north roof. Ivo keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
 {"n":993,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north roof. direct left open. 8 steps. The barrel stays for the hit."}
 {"n":994,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at South stair. Nobody past the north roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":995,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north roof. Bess keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":996,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north roof. direct left open. 4 steps. The barrel stays for the hit."}
+{"n":997,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the pier. Nobody past the north roof. We hit in 5 steps. Direct on the left lane, open."}
