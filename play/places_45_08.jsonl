@@ -26,3 +26,6 @@
 {"n":26,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north roof. direct left open. 6 steps. The barrel stays for the hit."}
 {"n":27,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Switchyard. Nobody past the north roof. We hit in 7 steps. Direct on the left lane, open."}
 {"n":28,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
+{"n":29,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. direct left open. 2 steps. The barrel stays for the hit."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Switchyard. Nobody past the north roof. We hit in 3 steps. Direct on the left lane, open."}
+{"n":31,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north roof. Bess keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
