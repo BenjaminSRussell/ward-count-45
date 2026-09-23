@@ -664,3 +664,6 @@
 {"n":664,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Switchyard. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
 {"n":665,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west roof. Nia keeps the rope for the hit. 5 steps, direct on the left lane, open."}
 {"n":666,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west roof. direct left open. 6 steps. The rope stays for the hit."}
+{"n":667,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Switchyard. Nobody past the west roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":668,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the rope for the hit. 8 steps, direct on the left lane, open."}
+{"n":669,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. direct left open. 2 steps. The rope stays for the hit."}
