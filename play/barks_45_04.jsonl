@@ -176,3 +176,6 @@
 {"n":176,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west roof. Ivo keeps the crate for the hit. 6 steps, direct on the left lane, open."}
 {"n":177,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west roof. direct left open. 7 steps. The crate stays for the hit."}
 {"n":178,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Drydock. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":179,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west roof. Bess keeps the crate for the hit. 2 steps, direct on the left lane, open."}
+{"n":180,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. direct left open. 3 steps. The crate stays for the hit."}
+{"n":181,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at High line. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
