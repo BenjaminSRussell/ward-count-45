@@ -274,3 +274,6 @@
 {"n":274,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the west roof. We hit in 6 steps. Direct on the left lane, open."}
 {"n":275,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west roof. Bess keeps the lamp for the hit. 7 steps, direct on the left lane, open."}
 {"n":276,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west roof. direct left open. 8 steps. The lamp stays for the hit."}
+{"n":277,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":278,"kind":"place","name":"Last Light west roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west roof. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":279,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west roof. direct left open. 4 steps. The lamp stays for the hit."}
