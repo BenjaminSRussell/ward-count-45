@@ -5,3 +5,6 @@
 {"n":5,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south stair. direct left open. 5 steps. The barrel stays for the hit."}
 {"n":6,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at High line. Nobody past the south stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":7,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south stair. Bess keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
+{"n":8,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. direct left open. 8 steps. The barrel stays for the hit."}
+{"n":9,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Ward gate. Nobody past the south stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":10,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south stair. Matt keeps the crate for the hit. 3 steps, direct on the left lane, open."}
