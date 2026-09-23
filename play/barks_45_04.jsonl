@@ -575,3 +575,6 @@
 {"n":575,"kind":"place","name":"Stockyard fence west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west roof. Bess keeps the rope for the hit. 6 steps, direct on the left lane, open."}
 {"n":576,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west roof. direct left open. 7 steps. The rope stays for the hit."}
 {"n":577,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Mall court. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":578,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court west roof. Matt keeps the rope for the hit. 2 steps, direct on the left lane, open."}
+{"n":579,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west roof. direct left open. 3 steps. The rope stays for the hit."}
+{"n":580,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Mall court. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
