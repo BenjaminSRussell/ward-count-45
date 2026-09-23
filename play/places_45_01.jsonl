@@ -894,3 +894,6 @@
 {"n":894,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south stair. direct left open. 6 steps. The barrel stays for the hit."}
 {"n":895,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Mall court. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":896,"kind":"place","name":"Mall court south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court south stair. Ivo keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
+{"n":897,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south stair. direct left open. 2 steps. The barrel stays for the hit."}
+{"n":898,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Mall court. Nobody past the south stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":899,"kind":"place","name":"Mall court south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court south stair. Bess keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
