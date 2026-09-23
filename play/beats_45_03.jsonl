@@ -788,3 +788,6 @@
 {"n":788,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at South stair. Nobody past the west roof. We hit in 3 steps. Direct on the left lane, open."}
 {"n":789,"kind":"place","name":"South stair west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair west roof. Nia keeps the hydrant for the hit. 4 steps, direct on the left lane, open."}
 {"n":790,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west roof. direct left open. 5 steps. The hydrant stays for the hit."}
+{"n":791,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at South stair. Nobody past the west roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":792,"kind":"place","name":"South stair west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair west roof. Ivo keeps the hydrant for the hit. 7 steps, direct on the left lane, open."}
+{"n":793,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west roof. direct left open. 8 steps. The hydrant stays for the hit."}
