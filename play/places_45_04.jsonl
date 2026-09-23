@@ -90,3 +90,6 @@
 {"n":90,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. direct left open. 4 steps. The crate stays for the hit."}
 {"n":91,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Underpass. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":92,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the crate for the hit. 6 steps, direct on the left lane, open."}
+{"n":93,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. direct left open. 7 steps. The crate stays for the hit."}
+{"n":94,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Underpass. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":95,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west roof. Bess keeps the crate for the hit. 2 steps, direct on the left lane, open."}
