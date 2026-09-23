@@ -429,3 +429,6 @@
 {"n":429,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south stair. Nia keeps the radio coil for the hit. 8 steps, direct on the left lane, open."}
 {"n":430,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south stair. direct left open. 2 steps. The radio coil stays for the hit."}
 {"n":431,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mast yard. Nobody past the south stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":432,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south stair. Ivo keeps the radio coil for the hit. 4 steps, direct on the left lane, open."}
+{"n":433,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south stair. direct left open. 5 steps. The radio coil stays for the hit."}
+{"n":434,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Mast yard. Nobody past the south stair. We hit in 6 steps. Direct on the left lane, open."}
