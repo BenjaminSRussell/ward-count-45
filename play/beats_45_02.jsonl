@@ -756,3 +756,6 @@
 {"n":756,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Mast yard. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":757,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard south stair. Nia keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
 {"n":758,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south stair. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":759,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mast yard. Nobody past the south stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":760,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard south stair. Ivo keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
+{"n":761,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south stair. direct left open. 5 steps. The shutter stays for the hit."}
