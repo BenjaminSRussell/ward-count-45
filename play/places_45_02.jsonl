@@ -503,3 +503,6 @@
 {"n":503,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south stair. direct left open. 6 steps. The rebar stays for the hit."}
 {"n":504,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at High line. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":505,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south stair. Nia keeps the rebar for the hit. 8 steps, direct on the left lane, open."}
+{"n":506,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south stair. direct left open. 2 steps. The rebar stays for the hit."}
+{"n":507,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at High line. Nobody past the south stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":508,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south stair. Ivo keeps the rebar for the hit. 4 steps, direct on the left lane, open."}
