@@ -1,1 +1,4 @@
 {"n":1,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Drydock. Nobody past the west roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":2,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west roof. Matt keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
+{"n":3,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west roof. direct left open. 8 steps. The barrel stays for the hit."}
+{"n":4,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Drydock. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
