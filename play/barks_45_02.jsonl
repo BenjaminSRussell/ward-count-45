@@ -160,3 +160,6 @@
 {"n":160,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the crate for the hit. 6 steps, direct on the left lane, open."}
 {"n":161,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. direct left open. 7 steps. The crate stays for the hit."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Drydock. Nobody past the south stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":163,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock south stair. Bess keeps the crate for the hit. 2 steps, direct on the left lane, open."}
+{"n":164,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south stair. direct left open. 3 steps. The crate stays for the hit."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at High line. Nobody past the south stair. We hit in 4 steps. Direct on the left lane, open."}
