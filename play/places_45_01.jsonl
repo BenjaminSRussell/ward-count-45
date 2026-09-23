@@ -525,3 +525,6 @@
 {"n":525,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south stair. direct left open. 8 steps. The plywood stays for the hit."}
 {"n":526,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Kessler alley. Nobody past the south stair. We hit in 2 steps. Direct on the left lane, open."}
 {"n":527,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley south stair. Bess keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
+{"n":528,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south stair. direct left open. 4 steps. The plywood stays for the hit."}
+{"n":529,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Lot. Nobody past the south stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":530,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot south stair. Matt keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
