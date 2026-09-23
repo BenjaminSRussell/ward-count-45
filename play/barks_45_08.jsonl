@@ -148,3 +148,6 @@
 {"n":148,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the crate for the hit. 2 steps, direct on the left lane, open."}
 {"n":149,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. direct left open. 3 steps. The crate stays for the hit."}
 {"n":150,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Last Light. Nobody past the north roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":151,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light north roof. Bess keeps the crate for the hit. 5 steps, direct on the left lane, open."}
+{"n":152,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north roof. direct left open. 6 steps. The crate stays for the hit."}
+{"n":153,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at South stair. Nobody past the north roof. We hit in 7 steps. Direct on the left lane, open."}
