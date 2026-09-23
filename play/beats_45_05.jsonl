@@ -207,3 +207,6 @@
 {"n":207,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Ward gate. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
 {"n":208,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate west roof. Ivo keeps the badge door for the hit. 2 steps, direct on the left lane, open."}
 {"n":209,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west roof. direct left open. 3 steps. The badge door stays for the hit."}
+{"n":210,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Ward gate. Nobody past the west roof. We hit in 4 steps. Direct on the left lane, open."}
+{"n":211,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate west roof. Bess keeps the badge door for the hit. 5 steps, direct on the left lane, open."}
+{"n":212,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west roof. direct left open. 6 steps. The badge door stays for the hit."}
