@@ -874,3 +874,6 @@
 {"n":874,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west roof. direct left open. 5 steps. The barrel stays for the hit."}
 {"n":875,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Kessler alley. Nobody past the west roof. We hit in 6 steps. Direct on the left lane, open."}
 {"n":876,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west roof. Ivo keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
+{"n":877,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west roof. direct left open. 8 steps. The barrel stays for the hit."}
+{"n":878,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
+{"n":879,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
