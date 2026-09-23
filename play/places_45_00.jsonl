@@ -604,3 +604,6 @@
 {"n":604,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north stair. direct left open. 4 steps. The rope stays for the hit."}
 {"n":605,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at the pier. Nobody past the north stair. We hit in 5 steps. Direct on the left lane, open."}
 {"n":606,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier north stair. Matt keeps the rope for the hit. 6 steps, direct on the left lane, open."}
+{"n":607,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north stair. direct left open. 7 steps. The rope stays for the hit."}
+{"n":608,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at the pier. Nobody past the north stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":609,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier north stair. Nia keeps the rope for the hit. 2 steps, direct on the left lane, open."}
