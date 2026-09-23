@@ -251,3 +251,6 @@
 {"n":251,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south stair. direct left open. 6 steps. The lamp stays for the hit."}
 {"n":252,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Mast yard. Nobody past the south stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":253,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard south stair. Nia keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
+{"n":254,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south stair. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":255,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Mast yard. Nobody past the south stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":256,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south stair. Ivo keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
