@@ -340,3 +340,6 @@
 {"n":340,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north stair. direct left open. 6 steps. The rebar stays for the hit."}
 {"n":341,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Kessler alley. Nobody past the north stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":342,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north stair. Matt keeps the rebar for the hit. 8 steps, direct on the left lane, open."}
+{"n":343,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north stair. direct left open. 2 steps. The rebar stays for the hit."}
+{"n":344,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Kessler alley. Nobody past the north stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":345,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north stair. Nia keeps the rebar for the hit. 4 steps, direct on the left lane, open."}
