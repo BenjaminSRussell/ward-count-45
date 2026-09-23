@@ -922,3 +922,6 @@
 {"n":922,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. direct left open. 4 steps. The barrel stays for the hit."}
 {"n":923,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Underpass. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":924,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the barrel for the hit. 6 steps, direct on the left lane, open."}
+{"n":925,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. direct left open. 7 steps. The barrel stays for the hit."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the Underpass. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":927,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass west roof. Bess keeps the barrel for the hit. 2 steps, direct on the left lane, open."}
