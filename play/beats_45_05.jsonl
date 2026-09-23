@@ -903,3 +903,6 @@
 {"n":903,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Lot. Nobody past the east roof. We hit in 4 steps. Direct on the left lane, open."}
 {"n":904,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east roof. Ivo keeps the barrel for the hit. 5 steps, direct on the left lane, open."}
 {"n":905,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. direct left open. 6 steps. The barrel stays for the hit."}
+{"n":906,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the Lot. Nobody past the east roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":907,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east roof. Bess keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
+{"n":908,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. direct left open. 2 steps. The barrel stays for the hit."}
