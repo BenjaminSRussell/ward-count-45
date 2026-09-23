@@ -266,3 +266,6 @@
 {"n":266,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. direct left open. 4 steps. The badge door stays for the hit."}
 {"n":267,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at the Underpass. Nobody past the west roof. We hit in 5 steps. Direct on the left lane, open."}
 {"n":268,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the badge door for the hit. 6 steps, direct on the left lane, open."}
+{"n":269,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. direct left open. 7 steps. The badge door stays for the hit."}
+{"n":270,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at the Underpass. Nobody past the west roof. We hit in 8 steps. Direct on the left lane, open."}
+{"n":271,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass west roof. Bess keeps the badge door for the hit. 2 steps, direct on the left lane, open."}
