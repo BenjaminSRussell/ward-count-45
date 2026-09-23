@@ -663,3 +663,6 @@
 {"n":663,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west roof. Bess keeps the plywood for the hit. 4 steps, direct on the left lane, open."}
 {"n":664,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west roof. direct left open. 5 steps. The plywood stays for the hit."}
 {"n":665,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Drydock. Nobody past the west roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":666,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west roof. Matt keeps the plywood for the hit. 7 steps, direct on the left lane, open."}
+{"n":667,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west roof. direct left open. 8 steps. The plywood stays for the hit."}
+{"n":668,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Drydock. Nobody past the west roof. We hit in 2 steps. Direct on the left lane, open."}
