@@ -887,3 +887,6 @@
 {"n":887,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east roof. direct left open. 2 steps. The barrel stays for the hit."}
 {"n":888,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Kessler alley. Nobody past the east roof. We hit in 3 steps. Direct on the left lane, open."}
 {"n":889,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley east roof. Nia keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
+{"n":890,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east roof. direct left open. 5 steps. The barrel stays for the hit."}
+{"n":891,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Kessler alley. Nobody past the east roof. We hit in 6 steps. Direct on the left lane, open."}
+{"n":892,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley east roof. Ivo keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
