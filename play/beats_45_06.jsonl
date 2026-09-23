@@ -197,3 +197,6 @@
 {"n":197,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at High line. Nobody past the east roof. We hit in 4 steps. Direct on the left lane, open."}
 {"n":198,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line east roof. Matt keeps the crate for the hit. 5 steps, direct on the left lane, open."}
 {"n":199,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east roof. direct left open. 6 steps. The crate stays for the hit."}
+{"n":200,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at High line. Nobody past the east roof. We hit in 7 steps. Direct on the left lane, open."}
+{"n":201,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line east roof. Nia keeps the crate for the hit. 8 steps, direct on the left lane, open."}
+{"n":202,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east roof. direct left open. 2 steps. The crate stays for the hit."}
